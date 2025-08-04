@@ -1,0 +1,14 @@
+C:\ProjetosWebDio\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.exe
+C:\ProjetosWebDio\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.deps.json
+C:\ProjetosWebDio\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.runtimeconfig.json
+C:\ProjetosWebDio\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.dll
+C:\ProjetosWebDio\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.pdb
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfo.cs
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.dll
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\refint\ExemploExplorando.dll
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
