@@ -34,8 +34,6 @@ namespace ExemploExplorando.Models
                 string texto = $"Nº {count} - { Alunos[count].NomeCompleto}";
                 Console.WriteLine(texto);
                 
-
-
             }
         }
     }
