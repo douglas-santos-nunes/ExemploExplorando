@@ -13,3 +13,6 @@ C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
 C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
 C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
 C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.sourcelink.json
+C:\ProjetosWebDio\ExemploExplorando\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\ProjetosWebDio\ExemploExplorando\obj\Debug\net9.0\ExemploE.B7F01285.Up2Date
