@@ -1,4 +1,59 @@
-﻿using ExemploExplorando.Models;
+﻿using System.Reflection.Metadata;
+using ExemploExplorando.Models;
+
+
+
+// int numero = 10;
+// bool ehPar = false;
+
+// //If ternario
+// ehPar = numero % 2 == 0;
+
+// System.Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "impar"));
+
+// Pessoa p1 = new Pessoa("Douglas", "Nunes");
+
+// (string nome, string sobrenome) = p1;
+
+
+
+// (int, string, string) tupla = (1, "Douglas", "Nunes");
+
+
+// System.Console.WriteLine(tupla.Item1);
+
+
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (sucesso)
+// {
+//     foreach (string linhas in linhasArquivo)
+//     {
+//         System.Console.WriteLine(linhas);
+//     }
+// }
+// else
+// {
+//     System.Console.WriteLine("Não foi possivel ler o arquivo");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // using System.Globalization;
 
 // Dictionary<string, string> estados = new Dictionary<string, string>();

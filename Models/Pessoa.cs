@@ -10,7 +10,7 @@ namespace ExemploExplorando.Models
     {
         public Pessoa()
         {
-            
+
         }
         public Pessoa(string nome, string sobrenome)
         {
@@ -18,13 +18,13 @@ namespace ExemploExplorando.Models
             Sobrenome = sobrenome;
         }
         private string _nome;
-        public string Nome 
-        { 
-            get =>  _nome.ToUpper();
+        public string Nome
+        {
+            get => _nome.ToUpper();
 
             set
             {
-                if(value == "")
+                if (value == "")
                 {
                     throw new ArgumentException("O nome não pode ser vazio");
                 }
@@ -35,24 +35,31 @@ namespace ExemploExplorando.Models
         public string Sobrenome { get; set; }
         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
         private int _idade;
-        public int Idade 
-        { 
+        public int Idade
+        {
             get => _idade;
-            
+
             set
             {
-                if(value < 0)
+                if (value < 0)
                 {
                     throw new ArgumentException("A idade não pode ser menor que 0");
                 }
 
                 _idade = value;
             }
-            
+
         }
 
-        public void Apresentar(){
+        public void Apresentar()
+        {
             Console.WriteLine($"Nome {NomeCompleto} , idade: {Idade}");
+        }
+
+        public void Deconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
         }
     }
 }
